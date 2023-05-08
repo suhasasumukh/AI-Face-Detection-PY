@@ -15,7 +15,7 @@ An AI program which detects Human face with the help of any web cam.
 ## Installation
 - Clone the repository to your local machine
 ```bash
-git clone https://github.com/your_username/AI-Face-Detection-PY.git
+git clone https://github.com/suhasumukh/AI-Face-Detection-PY.git
 ```
 - Install the required packages:
 ```bash
