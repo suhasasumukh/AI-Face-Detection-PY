@@ -11,6 +11,7 @@ An AI program which detects Human face with the help of any web cam.
 - Any IDE of your choice to run/execute the code
 - Runs on Python OpenCV libraries.
 - Runs on Python Version 3.10.1
+- Requires a web cam
 
 ## Installation
 - Clone the repository to your local machine
