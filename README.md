@@ -17,3 +17,10 @@ An AI program which detects Human face with the help of any web cam.
 ```bash
 git clone https://github.com/your_username/AI-Face-Detection-PY.git
 ```
+- Install the required packages:
+```bash
+pip install opencv-python
+```
+
+## License
+- This program is licensed under the Apache-2.0 license. See the LICENSE file for details.
